@@ -1,22 +1,38 @@
-
 <h1 align="center">👋 Hi, I am TONTSA APALA</h1>
 <h2 align="center">🚀 Embedded Software Developer | Real-Time Systems | MCU Enthusiast</h2>
 
-I’m a passionate **Embedded Software Developer** with a strong focus on **real-time systems**, **microcontroller programming**, and **low-level hardware interaction**.  
+<p align="center">
+  I’m a passionate <strong>Embedded Software Developer</strong> with a strong focus on <strong>real-time systems</strong>, 
+  <strong>microcontroller programming</strong>, and <strong>low-level hardware interaction</strong>.
+</p>
 
-⚙️ I love working with platforms like **STM32**, **ESP32**, **dsPIC33**, **Raspberry Pi**, and I'm comfortable navigating protocols like **CAN**, **I2C**, **SPI**, and **UART**.  
+<p align="center">
+  ⚙️ I love working with platforms like <strong>STM32</strong>, <strong>ESP32</strong>, <strong>dsPIC33</strong>, <strong>Raspberry Pi</strong>, and I'm comfortable navigating protocols like <strong>CAN</strong>, <strong>I2C</strong>, <strong>SPI</strong>, and <strong>UART</strong>.
+</p>
 
-🧠 I thrive on solving complex challenges at the intersection of **hardware** and **software** — whether it’s **optimizing RTOS tasks**, **building bootloaders**, or **decoding sensor payloads**.  
+<p align="center">
+  🧠 I thrive on solving complex challenges at the intersection of <strong>hardware</strong> and <strong>software</strong> — whether it’s <strong>optimizing RTOS tasks</strong>, <strong>building bootloaders</strong>, or <strong>decoding sensor payloads</strong>.
+</p>
 
-🔧 I often work with **FreeRTOS**, **C/C++**, and **Python**, and I enjoy tinkering with **oscilloscopes** and **debuggers**.  
+<p align="center">
+  🔧 I often work with <strong>FreeRTOS</strong>, <strong>C/C++</strong>, and <strong>Python</strong>, and I enjoy tinkering with <strong>oscilloscopes</strong> and <strong>debuggers</strong>.
+</p>
 
-🌱 Always **learning** and **building**, I’m on a journey to contribute to **robust**, **efficient**, and **secure embedded systems**, especially in **automotive** and **industrial domains**.  
+<p align="center">
+  🌱 Always <strong>learning</strong> and <strong>building</strong>, I’m on a journey to contribute to <strong>robust</strong>, <strong>efficient</strong>, and <strong>secure embedded systems</strong>, especially in <strong>automotive</strong> and <strong>industrial domains</strong>.
+</p>
 
-🚀 Let’s build systems that just work — **reliably** and **elegantly**!
+<p align="center">
+  🚀 Let’s build systems that just work — <strong>reliably</strong> and <strong>elegantly</strong>!
+</p>
 
+---
 
-## 🌐 Socials:
-[![mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frankapala75@gmail.com) 
+## 🌐 Socials
+
+[![mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frankapala75@gmail.com)
+
+---
 
 <div align="center">
 
@@ -27,7 +43,6 @@ I’m a passionate **Embedded Software Developer** with a strong focus on **real
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-
 
 <!-- Tools & Frameworks -->
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-006400.svg?style=plastic&logo=freertos&logoColor=white)](https://www.freertos.org/)
@@ -55,16 +70,36 @@ I’m a passionate **Embedded Software Developer** with a strong focus on **real
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-orange.svg?style=plastic&logo=platformio&logoColor=white)](https://platformio.org/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
+</div>
 
-# 📊 GitHub Stats:
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=FrankApala&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FrankApala&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankApala&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FrankApala&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### ✍️ Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=FrankApala&icon=0&color=0" alt="Profile Visit Counter"/>
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
