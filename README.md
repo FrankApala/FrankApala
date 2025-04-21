@@ -36,7 +36,6 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
 <!-- Frameworks & Tools -->
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-006400.svg?style=plastic&logo=freertos&logoColor=white)](https://www.freertos.org/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)](https://git-scm.com/)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)](https://www.latex-project.org/)
 [![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=plastic&logo=eclipsemosquitto&logoColor=white)](https://mosquitto.org/)
 
