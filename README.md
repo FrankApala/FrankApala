@@ -1,13 +1,8 @@
-<!-- Banner -->
-<p align="center">
-  <img src="banner.png" alt="Tontsa Apala | Embedded Software Developer Banner" width="100%">
-</p>
 
 <!-- Headings -->
 <h1 align="center">👋 Hi, I’m TONTSA APALA</h1>
 <h2 align="center">🚀 Embedded Software Developer | Real-Time Systems | MCU Enthusiast</h2>
 
----
 
 I’m a passionate **Embedded Software Developer** with a strong focus on **real-time systems**, **microcontroller programming**, and **low-level hardware interaction**.
 
