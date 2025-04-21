@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a passionate Embedded Software Developer with a strong focus on real-time systems, microcontroller programming, and low-level hardware interaction.<br>⚙️ I love working with platforms like STM32, ESP32, and dsPIC33, and I'm comfortable navigating protocols like CAN, LIN, and UART.<br>🧠 I thrive on solving complex challenges at the intersection of hardware and software — whether it’s optimizing RTOS tasks, building bootloaders, or decoding sensor payloads.<br>🔧 I often work with FreeRTOS, C/C++, and Python, and I enjoy tinkering with oscilloscopes, debuggers, and logic analyzers.<br>🌱 Always learning and building, I’m on a journey to contribute to robust, efficient, and secure embedded systems, especially in automotive and industrial domains.<br>🚀 Let’s build systems that just work — reliably and elegantly!
+👋 Hi there! I’m a passionate Embedded Software Developer with a strong focus on real-time systems, microcontroller programming, and low-level hardware interaction.<br>⚙️ I love working with platforms like STM32, ESP32, and dsPIC33, Raspberry-pi and I'm comfortable navigating protocols like CAN,and UART.<br>🧠 I thrive on solving complex challenges at the intersection of hardware and software — whether it’s optimizing RTOS tasks, building bootloaders, or decoding sensor payloads.<br>🔧 I often work with FreeRTOS, C/C++, and Python, and I enjoy tinkering with oscilloscopes and debuggers.<br>🌱 Always learning and building, I’m on a journey to contribute to robust, efficient, and secure embedded systems, especially in automotive and industrial domains.<br>🚀 Let’s build systems that just work — reliably and elegantly!
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=FrankApala&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FrankApala&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankApala&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FrankApala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
