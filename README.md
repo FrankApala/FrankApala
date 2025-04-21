@@ -27,7 +27,7 @@ I’m a passionate **Embedded Software Developer** with a strong focus on **real
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Rust]](https://www.rust-lang.org/)
+
 
 <!-- Tools & Frameworks -->
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-006400.svg?style=plastic&logo=freertos&logoColor=white)](https://www.freertos.org/)
