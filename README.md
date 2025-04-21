@@ -1,4 +1,7 @@
-#                                                                       👋 Hi I am TONTSA APALA 
+
+<h1 align="center">👋 Hi, I am TONTSA APALA</h1>
+<h2 align="center">🚀 Embedded Software Developer | Real-Time Systems | MCU Enthusiast</h2>
+
 I’m a passionate **Embedded Software Developer** with a strong focus on **real-time systems**, **microcontroller programming**, and **low-level hardware interaction**.  
 
 ⚙️ I love working with platforms like **STM32**, **ESP32**, **dsPIC33**, **Raspberry Pi**, and I'm comfortable navigating protocols like **CAN**, **I2C**, **SPI**, and **UART**.  
