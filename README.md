@@ -73,15 +73,9 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
 ### ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=FrankApala&icon=0&color=0" alt="Profile Visit Counter"/>
-  </a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=FrankApala&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
