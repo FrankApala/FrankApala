@@ -1,6 +1,5 @@
 #                                                                       👋 Hi I am TONTSA APALA 
 I’m a passionate Embedded Software Developer with a strong focus on real-time systems, microcontroller programming, and low-level hardware interaction.
-
 <br>⚙️ I love working with platforms like STM32, ESP32, dsPIC33, Raspberry Pi, and I'm comfortable navigating protocols like CAN, I2C, SPI, and UART.
 
 <br>🧠 I thrive on solving complex challenges at the intersection of hardware and software — whether it’s optimizing RTOS tasks, building bootloaders, or decoding sensor payloads.
