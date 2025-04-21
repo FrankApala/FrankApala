@@ -69,23 +69,18 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=FrankApala&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FrankApala&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankApala&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
 
 ---
 
 ### ✍️ Dev Quote
 
-<div align="center">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
+
 
 ---
 
@@ -95,4 +90,4 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
   </a>
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
