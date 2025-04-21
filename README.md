@@ -17,14 +17,15 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
 
 
 ## 🌐 Contact Me
+[![Email: frankapala75@gmail.com](https://img.shields.io/badge/Gmail-frankapala75@gmail.com-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:frankapala75@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tontsa)
 
-[![mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frankapala75@gmail.com)
 
 
 
 ## 💻 Tech Stack
 
-<div align="center">
+
 
 <!-- Languages -->
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -58,7 +59,6 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-orange.svg?style=plastic&logo=platformio&logoColor=white)](https://platformio.org/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-</div>
 
 
 
