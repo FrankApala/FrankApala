@@ -1,42 +1,35 @@
-<h1 align="center">👋 Hi, I am TONTSA APALA</h1>
+<!-- Banner -->
+<p align="center">
+  <img src="banner.png" alt="Tontsa Apala | Embedded Software Developer Banner" width="100%">
+</p>
+
+<!-- Headings -->
+<h1 align="center">👋 Hi, I’m TONTSA APALA</h1>
 <h2 align="center">🚀 Embedded Software Developer | Real-Time Systems | MCU Enthusiast</h2>
-
-<p >
-  I’m a passionate <strong>Embedded Software Developer</strong> with a strong focus on <strong>real-time systems</strong>, 
-  <strong>microcontroller programming</strong>, and <strong>low-level hardware interaction</strong>.
-</p>
-
-<p >
-  ⚙️ I love working with platforms like <strong>STM32</strong>, <strong>ESP32</strong>, <strong>dsPIC33</strong>, <strong>Raspberry Pi</strong>, and I'm comfortable navigating protocols like <strong>CAN</strong>, <strong>I2C</strong>, <strong>SPI</strong>, and <strong>UART</strong>.
-</p>
-
-<p >
-  🧠 I thrive on solving complex challenges at the intersection of <strong>hardware</strong> and <strong>software</strong> — whether it’s <strong>optimizing RTOS tasks</strong>, <strong>building bootloaders</strong>, or <strong>decoding sensor payloads</strong>.
-</p>
-
-<p >
-  🔧 I often work with <strong>FreeRTOS</strong>, <strong>C/C++</strong>, and <strong>Python</strong>, and I enjoy tinkering with <strong>oscilloscopes</strong> and <strong>debuggers</strong>.
-</p>
-
-<p >
-  🌱 Always <strong>learning</strong> and <strong>building</strong>, I’m on a journey to contribute to <strong>robust</strong>, <strong>efficient</strong>, and <strong>secure embedded systems</strong>, especially in <strong>automotive</strong> and <strong>industrial domains</strong>.
-</p>
-
-<p >
-  🚀 Let’s build systems that just work — <strong>reliably</strong> and <strong>elegantly</strong>!
-</p>
 
 ---
 
-## 🌐 Socials
+I’m a passionate **Embedded Software Developer** with a strong focus on **real-time systems**, **microcontroller programming**, and **low-level hardware interaction**.
+
+I love working with platforms like **STM32**, **ESP32**, **dsPIC33**, and **Raspberry Pi**, and I’m comfortable navigating protocols like **CAN**, **I2C**, **SPI**, and **UART**.
+
+I enjoy solving complex challenges that lie at the intersection of hardware and software — whether that’s **optimizing FreeRTOS tasks**, **building custom bootloaders**, or **decoding sensor payloads**.
+
+My day-to-day tools include **C/C++**, **Python**, **FreeRTOS**, oscilloscopes, and debuggers. I’m constantly learning and experimenting with systems that demand performance, safety, and reliability.
+
+My goal is to build embedded systems that are **robust**, **efficient**, and **secure**, especially within **automotive** and **industrial** applications.
+
+---
+
+## 🌐 Contact Me
 
 [![mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frankapala75@gmail.com)
 
 ---
 
-<div align="center">
+## 💻 Tech Stack
 
-# 💻 Tech Stack
+<div align="center">
 
 <!-- Languages -->
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -44,7 +37,7 @@
 [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
-<!-- Tools & Frameworks -->
+<!-- Frameworks & Tools -->
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-006400.svg?style=plastic&logo=freertos&logoColor=white)](https://www.freertos.org/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)](https://git-scm.com/)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
@@ -89,7 +82,7 @@
 ### ✍️ Dev Quote
 
 <div align="center">
-  
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
