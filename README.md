@@ -14,13 +14,13 @@ My day-to-day tools include **C/C++**, **Python**, **FreeRTOS**, oscilloscopes, 
 
 My goal is to build embedded systems that are **robust**, **efficient**, and **secure**, especially within **automotive** and **industrial** applications.
 
----
+
 
 ## 🌐 Contact Me
 
 [![mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frankapala75@gmail.com)
 
----
+
 
 ## 💻 Tech Stack
 
@@ -60,7 +60,7 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -69,7 +69,7 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrankApala&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
----
+
 
 ### ✍️ Dev Quote
 
