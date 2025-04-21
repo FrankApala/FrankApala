@@ -1,28 +1,28 @@
 <h1 align="center">👋 Hi, I am TONTSA APALA</h1>
 <h2 align="center">🚀 Embedded Software Developer | Real-Time Systems | MCU Enthusiast</h2>
 
-<p align="center">
+<p >
   I’m a passionate <strong>Embedded Software Developer</strong> with a strong focus on <strong>real-time systems</strong>, 
   <strong>microcontroller programming</strong>, and <strong>low-level hardware interaction</strong>.
 </p>
 
-<p align="center">
+<p >
   ⚙️ I love working with platforms like <strong>STM32</strong>, <strong>ESP32</strong>, <strong>dsPIC33</strong>, <strong>Raspberry Pi</strong>, and I'm comfortable navigating protocols like <strong>CAN</strong>, <strong>I2C</strong>, <strong>SPI</strong>, and <strong>UART</strong>.
 </p>
 
-<p align="center">
+<p >
   🧠 I thrive on solving complex challenges at the intersection of <strong>hardware</strong> and <strong>software</strong> — whether it’s <strong>optimizing RTOS tasks</strong>, <strong>building bootloaders</strong>, or <strong>decoding sensor payloads</strong>.
 </p>
 
-<p align="center">
+<p >
   🔧 I often work with <strong>FreeRTOS</strong>, <strong>C/C++</strong>, and <strong>Python</strong>, and I enjoy tinkering with <strong>oscilloscopes</strong> and <strong>debuggers</strong>.
 </p>
 
-<p align="center">
+<p >
   🌱 Always <strong>learning</strong> and <strong>building</strong>, I’m on a journey to contribute to <strong>robust</strong>, <strong>efficient</strong>, and <strong>secure embedded systems</strong>, especially in <strong>automotive</strong> and <strong>industrial domains</strong>.
 </p>
 
-<p align="center">
+<p >
   🚀 Let’s build systems that just work — <strong>reliably</strong> and <strong>elegantly</strong>!
 </p>
 
