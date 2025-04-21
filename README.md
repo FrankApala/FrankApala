@@ -20,13 +20,14 @@ I’m a passionate **Embedded Software Developer** with a strong focus on **real
 
 <div align="center">
 
-<h1>💻 Tech Stack</h1>
+# 💻 Tech Stack
 
 <!-- Languages -->
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Rust]](https://www.rust-lang.org/)
 
 <!-- Tools & Frameworks -->
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-006400.svg?style=plastic&logo=freertos&logoColor=white)](https://www.freertos.org/)
@@ -54,7 +55,6 @@ I’m a passionate **Embedded Software Developer** with a strong focus on **real
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-orange.svg?style=plastic&logo=platformio&logoColor=white)](https://platformio.org/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FrankApala&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
