@@ -67,9 +67,6 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
 |:--:|:--:|
 
 
-
-### ✍️ Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
