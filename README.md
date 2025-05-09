@@ -15,7 +15,7 @@
 
 I’m a passionate **Embedded Software Developer** with a strong focus on **real-time systems**, **microcontroller programming**, and **low-level hardware interaction**.
 
-I love working with platforms like **STM32**, **ESP32**, **dsPIC33**, and **Raspberry Pi**, and I’m comfortable navigating protocols like **CAN**,**LIN** and **UART**.
+I love working with boards like **STM32**, **ESP32**, **PIC MCUs**, and **Raspberry Pi**, and I’m comfortable navigating protocols like **CAN**,**LIN** and **UART**.
 
 I enjoy solving complex challenges that lie at the intersection of hardware and software.
 
