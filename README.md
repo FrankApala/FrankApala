@@ -1,6 +1,6 @@
 
 <!-- Headings -->
-<h1 align="center">👋 Hi, I’m TONTSA APALA, 🚀 Embedded Software Developer|MCU Enthusiast</h1>
+<h1 align="center">👋 Hi, I’m TONTSA APALA, 🚀 Embedded Software Developer | MCU Enthusiast</h1>
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:frankapala75@gmail.com)
