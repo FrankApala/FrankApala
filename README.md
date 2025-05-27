@@ -45,7 +45,7 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
 [![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![ARM](https://img.shields.io/badge/ARM-000000?style=for-the-badge&logo=arm&logoColor=white)](https://www.arm.com/)
-[![PIC and DSPIC](https://img.shields.io/badge/PIC-000000?style=for-the-badge&logo=microchip&logoColor=white)](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/pic-mcus)
+[![PIC](https://img.shields.io/badge/PIC-000000?style=for-the-badge&logo=microchip&logoColor=white)](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/pic-mcus)
 [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/)
 [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
