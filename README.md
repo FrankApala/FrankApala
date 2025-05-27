@@ -33,7 +33,7 @@ My goal is to build embedded systems that are **robust**, **efficient**, and **s
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
 
 <!-- Frameworks & Tools -->
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-006400?style=for-the-badge&logo=freertos&logoColor=white)](https://www.freertos.org/)
