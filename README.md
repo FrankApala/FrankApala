@@ -33,35 +33,35 @@ I’m an **Embedded Software Engineer** with a passion for designing **robust**,
 ## 💼 Tech Toolbox
 
 ### 📌 Languages & Scripting
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)]()
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 
 ### 📌 RTOS & Toolchains
-[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-006400?style=for-the-badge&logo=freertos&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-![Linker Script](https://img.shields.io/badge/Linker%20Script-LD-blue?style=for-the-badge)
-![Makefile](https://img.shields.io/badge/Makefile-GNU-lightgrey?style=for-the-badge)
+[![FreeRTOS](https://img.shields.io/badge/FreeRTOS-006400?style=for-the-badge&logo=freertos&logoColor=white)](https://www.freertos.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linker Script](https://img.shields.io/badge/Linker%20Script-LD-blue?style=for-the-badge)](https://sourceware.org/binutils/docs/ld/)
+[![Makefile](https://img.shields.io/badge/Makefile-GNU-lightgrey?style=for-the-badge)](https://www.gnu.org/software/make/)
 
 ### 📌 Microcontrollers & Platforms
-[![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)]()
-[![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)]()
-[![PIC](https://img.shields.io/badge/PIC-000000?style=for-the-badge&logo=microchip&logoColor=white)]()
-[![dsPIC](https://img.shields.io/badge/dsPIC-MCU-blue?style=for-the-badge)]()
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)]()
+[![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+[![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+[![PIC](https://img.shields.io/badge/PIC-000000?style=for-the-badge&logo=microchip&logoColor=white)](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/pic-mcus)
+[![dsPIC](https://img.shields.io/badge/dsPIC-MCU-blue?style=for-the-badge)](https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/16-bit-mcus/dspic-digital-signal-controllers)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/)
 
 ### 📌 Communication Protocols
-[![CAN](https://img.shields.io/badge/CAN_Bus-grey?style=for-the-badge)]()
-[![LIN](https://img.shields.io/badge/LIN-Bus-blue?style=for-the-badge)]()
-[![UART](https://img.shields.io/badge/UART-00427E?style=for-the-badge)]()
-[![I2C](https://img.shields.io/badge/I2C-3C873A?style=for-the-badge)]()
-[![SPI](https://img.shields.io/badge/SPI-F48C06?style=for-the-badge)]()
+[![CAN](https://img.shields.io/badge/CAN_Bus-grey?style=for-the-badge)](https://www.ni.com/en-us/innovations/can.html)
+[![LIN](https://img.shields.io/badge/LIN-Bus-blue?style=for-the-badge)](https://www.cs-group.de/en/portfolio/automotive/lin/)
+[![UART](https://img.shields.io/badge/UART-00427E?style=for-the-badge)](https://learn.sparkfun.com/tutorials/serial-communication/all)
+[![I2C](https://img.shields.io/badge/I2C-3C873A?style=for-the-badge)](https://www.i2c-bus.org/)
+[![SPI](https://img.shields.io/badge/SPI-F48C06?style=for-the-badge)](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface)
 
 ### 📌 IDEs & Debugging Tools
-[![MPLAB X](https://img.shields.io/badge/MPLAB_X-CC0000?style=for-the-badge&logo=microchip&logoColor=white)]()
-[![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)]()
-[![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)]()
-[![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
+[![MPLAB X](https://img.shields.io/badge/MPLAB_X-CC0000?style=for-the-badge&logo=microchip&logoColor=white)](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
+[![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)](https://www.st.com/en/development-tools/stm32cubeide.html)
+[![PlatformIO](https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white)](https://platformio.org/)
+[![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
