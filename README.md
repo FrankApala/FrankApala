@@ -40,8 +40,8 @@ I’m an **Embedded Software Engineer** with a passion for designing **robust**,
 ### 📌 RTOS & Toolchains
 [![FreeRTOS](https://img.shields.io/badge/FreeRTOS-006400?style=for-the-badge&logo=freertos&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)]()
-[![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)]()
+![Linker Script](https://img.shields.io/badge/Linker%20Script-LD-blue?style=for-the-badge)
+![Makefile](https://img.shields.io/badge/Makefile-GNU-lightgrey?style=for-the-badge)
 
 ### 📌 Microcontrollers & Platforms
 [![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=STMicroelectronics&logoColor=white)]()
