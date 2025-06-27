@@ -15,7 +15,9 @@
 
 ## 👨‍💻 About Me
 
-I’m an **Embedded Software Engineer** with a passion for designing **robust**, **real-time**, and **low-level systems** that power the future of **automotive**, **aerospace**, and **industrial automation**.
+I’m an **Embedded Software Engineer** who loves **low-level development** and the **coding technologies that power every electronic device in existence today** — from smart sensors to automotive ECUs.
+
+I have a passion for designing **robust**, **real-time**, and **hardware-close systems** that demand precision, performance, and reliability.
 
 🔍 I specialize in:
 - Real-Time Operating Systems (RTOS): **FreeRTOS**, bare-metal, deterministic task scheduling  
