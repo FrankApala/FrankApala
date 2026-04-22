@@ -22,13 +22,13 @@ I have a passion for designing **robust**, **real-time**, and **hardware-close s
 🔍 I specialize in:
 - Real-Time Operating Systems (RTOS): **FreeRTOS**, bare-metal, deterministic task scheduling  
 - MCU Firmware Development on **STM32**, **dsPIC**, **ESP32**, **PIC**, **Raspberry Pi**  
-- Communication stacks: **CAN**, **LIN**, **UART**, **SPI**, **I²C**  
+- Communication stacks: **CAN**, **UART**, **SPI**, **I²C**  
 - Performance-focused, fault-tolerant code in **C**, **C++**, and **Python**  
 - Safety-critical systems with a focus on **efficiency**, **memory optimization**, and **reliability**
 
-💡 I’m also the **Creator of [TA Embedded](https://www.linkedin.com/company/ta-embedded/)** — a growing community dedicated to **empowering embedded engineers** through hands-on insights, project showcases, and real-world knowledge sharing.
+💡 I’m also the **Creator of [TA Embedded](https://www.linkedin.com/company/ta-embedded/)** , a growing community dedicated to **empowering embedded engineers** through hands-on insights, project showcases, and real-world knowledge sharing.
 
-📚 I build systems where **hardware meets precision software** — delivering **firmware that just works**.
+📚 I build systems where **hardware meets precision software** , delivering **firmware that just works**.
 
 ---
 
